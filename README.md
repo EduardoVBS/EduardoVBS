@@ -1,8 +1,9 @@
 -----------------------------------------------------------------
-   Degree            : AAs. Analysis and System Development.
-           Interests : Blockchain, Biohacking, ESG, I.A.
-           Backend   : C++, C#, MySQL, SQLite.
-           Frontend  : Python, JavaScript, TypeScript.
-           Cloud     : AWS and Azure.
-           Others    : Docker, Kubernetes, Redis.
+    Degree    : AAs. Analysis and System Development
+    Interests : IA, Blockchain, Biohacking, ESG 
+    Backend   : C++, Laravel, C#, MySQL, SQLite
+    Frontend  : TypeScript, Python, JavaScript
+    Cloud     : AWS and Azure
+    Others    : Docker, Kubernetes, Redis
+    E-mail    : Eduardovbarro03@gmail.com
 -----------------------------------------------------------------
